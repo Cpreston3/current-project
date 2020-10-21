@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ad85cff-4799-41e3-8486-e8d59db7ac82" name="Default Changelist" comment="" />
+    <list default="true" id="4ad85cff-4799-41e3-8486-e8d59db7ac82" name="Default Changelist" comment="nodemon was not working so i had to install it &#10; sudo npm install -g nodemon">
+      <change afterPath="$USER_HOME$/git@github.com:Cpreston3/current-project/script.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/git@github.com:Cpreston3/current-project/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/git@github.com:Cpreston3/current-project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/git@github.com:Cpreston3/current-project/server.js" beforeDir="false" afterPath="$USER_HOME$/git@github.com:Cpreston3/current-project/server.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/git@github.com:Cpreston3/current-project" />
+  </component>
   <component name="ProjectId" id="1jCokJtGIwhOFwOSp2o5YjkPmIY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,11 +44,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603317576208</updated>
-      <workItem from="1603317577247" duration="983000" />
+      <workItem from="1603317577247" duration="1784000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nodemon was not working so i had to install it &#10; sudo npm install -g nodemon" />
+    <option name="LAST_COMMIT_MESSAGE" value="nodemon was not working so i had to install it &#10; sudo npm install -g nodemon" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2398" y="412" width="323" height="207" key="Github.ShareDialog" timestamp="1603318559010">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2398" y="412" width="323" height="207" key="Github.ShareDialog/0.27.1920.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1603318559010" />
+    <state x="2269" y="181" width="571" height="668" key="Github.UntrackedFilesDialog" timestamp="1603318574466">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2269" y="181" width="571" height="668" key="Github.UntrackedFilesDialog/0.27.1920.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1603318574466" />
+    <state width="1257" height="344" key="GridCell.Tab.0.bottom" timestamp="1603318275507">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1257" height="344" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1603318275507" />
+    <state width="1257" height="344" key="GridCell.Tab.0.center" timestamp="1603318275507">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1257" height="344" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1603318275507" />
+    <state width="1257" height="344" key="GridCell.Tab.0.left" timestamp="1603318275507">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1257" height="344" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1603318275507" />
+    <state width="1257" height="344" key="GridCell.Tab.0.right" timestamp="1603318275507">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1257" height="344" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1603318275507" />
   </component>
 </project>
